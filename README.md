@@ -2,7 +2,7 @@
 
 ## Requirements: 
 1. Create an account to be tracked that obtains the following information from the user:
-  *First Name
+  * First Name
   *Last Name
   *Starting Balance
 
