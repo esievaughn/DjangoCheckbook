@@ -2,9 +2,9 @@
 
 ## Requirements: 
 1. Create an account to be tracked that obtains the following information from the user:
-  --First Name
-  --Last Name
-  --Starting Balance
+  *First Name
+  *Last Name
+  *Starting Balance
 
 2. User must then be able to add transactions to the account, including the following information:
   --Date of Transaction
